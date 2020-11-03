@@ -1,14 +1,14 @@
 {
   "categories": [
     {
-      "slug": "open-source",
-      "name": "Open Source",
+      "slug": "card-sorting",
+      "name": "Card Sorting",
       "description": "best free open source tools for your next projects",
       "icon": "🔨"
     },
     {
-      "slug": "productivity",
-      "name": "Productivity",
+      "slug": "usability-test",
+      "name": "Usability Test",
       "description": "best free productivity tools",
       "icon": "⌚"
     },
