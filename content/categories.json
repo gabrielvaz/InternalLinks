@@ -1,15 +1,9 @@
 {
   "categories": [
     {
-      "slug": "card-sorting",
-      "name": "Card Sorting",
-      "description": "best free open source tools for your next projects",
-      "icon": "🔨"
-    },
-    {
       "slug": "communication",
       "name": "Communication",
-      "description": "best communication tools",
+      "description": "Slack, Google Workspace",
       "icon": "💬"
     },
     {
