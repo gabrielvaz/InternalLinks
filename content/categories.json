@@ -23,6 +23,12 @@
       "name": "Developer Tools",
       "icon": "📌",
       "description": "Developer tools like Grafana, Admins, Github, React Components, etc..."
+    },
+    {
+      "slug": "data-analytics",
+      "name": "Data Analytics",
+      "description": "Google Search Console, Google Analytics, Metabase, Data Studio, Big Query",
+      "icon": "📈"
     }
   ]
 }
