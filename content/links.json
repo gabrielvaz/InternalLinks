@@ -2,46 +2,6 @@
   "links": [
     {
       "categories_slugs": [
-        "open-source",
-        "productivity",
-        "design",
-        "finance",
-        "ideas",
-        "trends",
-        "communication",
-        "well-being",
-        "books",
-        "food",
-        "learning",
-        "cryptocurrency"
-      ],
-      "name": "UX Research Repository",
-      "description": "Check the tips and tools for each method",
-      "url": "https://uxresearchrepo.netlify.app/",
-      "icon": "/images/logos/icon.png"
-    },
-    {
-      "categories_slugs": [
-        "books",
-        "food",
-        "well-being"
-      ],
-      "name": "Tradivegan",
-      "description": "Traditional authentic vegan recipes from all around the world",
-      "url": "https://tradivegan.com/",
-      "icon": "/images/logos/tradivegan.png"
-    },
-    {
-      "categories_slugs": [
-        "productivity"
-      ],
-      "name": "Kanbanote",
-      "description": "Evernote as a Kanban board",
-      "url": "https://www.kanbanote.com",
-      "icon": "/images/logos/kanbanote.png"
-    },
-    {
-      "categories_slugs": [
         "open-source"
       ],
       "name": "Darkmode.js",
