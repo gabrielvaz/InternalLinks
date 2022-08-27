@@ -1,17 +1,17 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "description": "Build a curated directory of websites without or with code",
+  "title": "Jus Internal Links",
+  "description": "Our library for internal tools",
   "tools": {
     "title": "Tools & Resources",
     "description": "Find the tool you need in each category"
   },
   "footer": {
-    "title": "Any tool to suggest?",
-    "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
-    "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
+    "title": "Missed some link?",
+    "description": "Any tool forgotten? Feel free to send it to us!",
+    "copyright": "Unknown",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "Unknown",
+      "website": "http://www.com.com"
     }
   },
   "buttons": {
@@ -23,6 +23,6 @@
     }
   },
   "lunr-module": {
-    "placeholderText": "Search..."
+    "placeholderText": "Search here..."
   }
 }
